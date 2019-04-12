@@ -22,16 +22,9 @@ namespace GitTest
             //Feature 2
             
             //Feature 3
-            
-            //Feature 4a
-
-            //Feature 4b
-
-            //Feature 5
-
-            //Future 6a
-            
-            //Feature 6b
+          
+            //Nie dodajemy już liczb, tylko litery
+            //A
         }
     }
 }
