@@ -25,6 +25,8 @@ namespace GitTest
 
             //Nie dodajemy już liczb, tylko litery
             //A
+
+            //piszemy głupoty
         }
     }
 }
